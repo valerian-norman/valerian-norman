@@ -25,5 +25,5 @@ I'm a full-stack developer, game developer and muscician creating content for th
 
 # these projects were made during my time studying at Dev Academy
 
-<a href="https://github.com/kahikatea-2024/GetYourNailsDid">GetYourNailsDid - Back-end Database management</a>
-<a href="https://github.com/kahikatea-2024/Team-Piano">PokeMenu - Front-end api calls</a>
+<a href="https://github.com/kahikatea-2024/GetYourNailsDid">GetYourNailsDid</a> <p>-Back-end database management</p></br>
+<a href="https://github.com/kahikatea-2024/Team-Piano">PokeMenu</a><p>-Front-end api calling</p>
