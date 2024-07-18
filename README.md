@@ -21,9 +21,9 @@ I'm a full-stack developer, game developer and muscician creating content for th
 
 #
 
-### Example Projects
+## Example Projects
 
-# these projects were made during my time studying at Dev Academy
+### these projects were made during my time studying at Dev Academy
 
 <a href="https://github.com/kahikatea-2024/GetYourNailsDid">GetYourNailsDid</a> <p>-Back-end database management</p></br>
 <a href="https://github.com/kahikatea-2024/Team-Piano">PokeMenu</a><p>-Front-end api calling</p>
