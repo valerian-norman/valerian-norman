@@ -18,3 +18,12 @@ I'm a full-stack developer, game developer and muscician creating content for th
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg"/>
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+
+#
+
+### Example Projects
+
+# these projects were made during my time studying at Dev Academy
+
+<a href="https://github.com/kahikatea-2024/GetYourNailsDid">GetYourNailsDid - Back-end Database management</a>
+<a href="https://github.com/kahikatea-2024/Team-Piano">PokeMenu - Front-end api calls</a>
