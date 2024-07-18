@@ -26,4 +26,6 @@ I'm a full-stack developer, game developer and muscician creating content for th
 ### these projects were made during my time studying at Dev Academy
 
 <a href="https://github.com/kahikatea-2024/GetYourNailsDid">GetYourNailsDid</a> <p>-Back-end database management</p></br>
-<a href="https://github.com/kahikatea-2024/Team-Piano">PokeMenu</a><p>-Front-end api calling</p>
+<a href="https://github.com/kahikatea-2024/Team-Piano">PokeMenu</a><p>-Front-end api calling</p></br>
+<a href="https://github.com/valerian-norman/tic-tac-toe">TicTacToe</a><p>-Javascript practice</p></br>
+<a href="https://github.com/kahikatea-2024/tdd-bowling-kata/tree/val-solo">Bowling score tallying algorithm</a><p>-Algorithms & Javascript practice</p></br>
